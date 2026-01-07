@@ -8,6 +8,13 @@
       "when": 1720968254566,
       "tag": "0000_groovy_doctor_faustus",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1767792390449,
+      "tag": "0001_classy_masked_marvel",
+      "breakpoints": true
     }
   ]
 }

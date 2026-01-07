@@ -65,7 +65,7 @@ export const AiSidebar = ({
         <form onSubmit={onSubmit} className="p-4 space-y-6">
           <Textarea
             disabled={mutation.isPending}
-            placeholder="An astronaut riding a horse on mars, hd, dramatic lighting"
+            placeholder="An astronaut riding a horse on mars, hd, dramatic lighting."
             cols={30}
             rows={10}
             required
