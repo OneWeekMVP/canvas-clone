@@ -10,9 +10,9 @@ A production-ready graphic design SaaS platform with an intuitive drag-and-drop 
 
 **New to this project?** Follow our step-by-step setup guide:
 
-### 📖 [Complete Setup Documentation](./docs/README.md)
+### 📖 [Complete Setup Documentation](./docs/README/)
 
-Start here: **[00-PREREQUISITES.md](./docs/00-PREREQUISITES.md)**
+Start here: **[00-PREREQUISITES.md](./docs/README/00-PREREQUISITES.md)**
 
 **Estimated setup time:** ~90 minutes
 
@@ -48,7 +48,7 @@ Before starting, you need:
 - Git
 - Free accounts for: Neon, UploadThing, Replicate, Unsplash, Stripe, Google, GitHub
 
-**👉 See [Prerequisites Guide](./docs/00-PREREQUISITES.md) for details**
+**👉 See [Prerequisites Guide](./docs/README/00-PREREQUISITES.md) for details**
 
 ---
 
@@ -56,19 +56,19 @@ Before starting, you need:
 
 Follow these guides in order:
 
-1. **[Prerequisites](./docs/00-PREREQUISITES.md)** - What you need (2 min)
-2. **[Installation](./docs/01-INSTALLATION.md)** - Clone and install (5 min)
-3. **[Database Setup](./docs/02-DATABASE-SETUP.md)** - Neon PostgreSQL (10 min)
-4. **[Unsplash API](./docs/03-UNSPLASH-API.md)** - Stock photos (5 min)
-5. **[UploadThing API](./docs/04-UPLOADTHING-API.md)** - File uploads (5 min)
-6. **[Replicate API](./docs/05-REPLICATE-API.md)** - AI features (10 min)
-7. **[Stripe Setup](./docs/06-STRIPE-SETUP.md)** - Payments (20 min)
-8. **[Templates Setup](./docs/07-TEMPLATES-SETUP.md)** - Design templates (15 min)
-9. **[GitHub OAuth](./docs/08-GITHUB-OAUTH.md)** - GitHub login (5 min)
-10. **[Google OAuth](./docs/09-GOOGLE-OAUTH.md)** - Google login (10 min)
-11. **[Deployment](./docs/10-DEPLOYMENT.md)** - Deploy to Vercel (15 min)
+1. **[Prerequisites](./docs/README/00-PREREQUISITES.md)** - What you need (2 min)
+2. **[Installation](./docs/README/01-INSTALLATION.md)** - Clone and install (5 min)
+3. **[Database Setup](./docs/README/02-DATABASE-SETUP.md)** - Neon PostgreSQL (10 min)
+4. **[Unsplash API](./docs/README/03-UNSPLASH-API.md)** - Stock photos (5 min)
+5. **[UploadThing API](./docs/README/04-UPLOADTHING-API.md)** - File uploads (5 min)
+6. **[Replicate API](./docs/README/05-REPLICATE-API.md)** - AI features (10 min)
+7. **[Stripe Setup](./docs/README/06-STRIPE-SETUP.md)** - Payments (20 min)
+8. **[Templates Setup](./docs/README/07-TEMPLATES-SETUP.md)** - Design templates (15 min)
+9. **[GitHub OAuth](./docs/README/08-GITHUB-OAUTH.md)** - GitHub login (5 min)
+10. **[Google OAuth](./docs/README/09-GOOGLE-OAUTH.md)** - Google login (10 min)
+11. **[Deployment](./docs/README/10-DEPLOYMENT.md)** - Deploy to Vercel (15 min)
 
-**Need help?** Check [Troubleshooting Guide](./docs/11-TROUBLESHOOTING.md)
+**Need help?** Check [Troubleshooting Guide](./docs/README/11-TROUBLESHOOTING.md)
 
 ---
 
@@ -89,7 +89,7 @@ bun dev
 bun run db:studio
 ```
 
-**Full command reference:** See [Installation Guide](./docs/01-INSTALLATION.md)
+**Full command reference:** See [Installation Guide](./docs/README/01-INSTALLATION.md)
 
 ---
 
@@ -115,7 +115,7 @@ GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
 ```
 
-**Detailed guide:** [Environment Variables Reference](./docs/12-ENV-REFERENCE.md)
+**Detailed guide:** [Environment Variables Reference](./docs/README/12-ENV-REFERENCE.md)
 
 ---
 
@@ -132,9 +132,9 @@ Unlock with subscription:
 
 ## 📚 Documentation
 
-- **[Setup Guides](./docs/README.md)** - Complete step-by-step setup
-- **[Troubleshooting](./docs/11-TROUBLESHOOTING.md)** - Common issues and solutions
-- **[Environment Variables](./docs/12-ENV-REFERENCE.md)** - All variables explained
+- **[Setup Guides](./docs/README/)** - Complete step-by-step setup
+- **[Troubleshooting](./docs/README/11-TROUBLESHOOTING.md)** - Common issues and solutions
+- **[Environment Variables](./docs/README/12-ENV-REFERENCE.md)** - All variables explained
 
 ---
 
@@ -169,10 +169,10 @@ This project is based on the tutorial by Antonio Erdeljac.
 If you found this project helpful, please give it a star!
 
 **Need help?** 
-- Check [Documentation](./docs/README.md)
-- Review [Troubleshooting](./docs/11-TROUBLESHOOTING.md)
+- Check [Documentation](./docs/NOTE.md)
+- Review [Troubleshooting](./docs/README/11-TROUBLESHOOTING.md)
 - Create an issue on GitHub
 
 ---
 
-**Ready to start?** → Begin with **[Prerequisites Guide](./docs/00-PREREQUISITES.md)** 🚀
+**Ready to start?** → Begin with **[Prerequisites Guide](./docs/README/00-PREREQUISITES.md)** 🚀
