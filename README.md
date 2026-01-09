@@ -151,7 +151,7 @@ Unlock with subscription:
 
 ## 🙏 Credits
 
-**Course:** [YouTube Tutorial](https://youtu.be/dxwKklKfFWI?si=PsvqyR9l3g4Txpu_) (18-hour course)  
+**Course:** [YouTube Tutorial](https://www.codewithantonio.com/projects/canva-clone) (18-hour course)  
 **Creator:** [Code With Antonio](https://github.com/antonioerdeljac)  
 **Deployment:** [Vercel](https://vercel.com/)  
 **UI Components:** [Shadcn](https://ui.shadcn.com/)
