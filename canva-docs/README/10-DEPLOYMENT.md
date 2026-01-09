@@ -140,8 +140,6 @@ GOOGLE_CLIENT_SECRET=
 ### Step 11: Save and Redeploy
 
 1. Click **"Save"**
-2. Go to **"Deployments"** tab
-3. Click **"Redeploy"** on the latest deployment
 
 ---
 

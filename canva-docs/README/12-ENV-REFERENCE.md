@@ -262,6 +262,6 @@ Make sure to update OAuth callback URLs when deploying!
 ---
 
 **Previous:** [11-TROUBLESHOOTING.md](./11-TROUBLESHOOTING.md)  
-**Back to:** [README.md](./README.md)
+**Back to:** [README.md](../../README.md)
 
 ---
