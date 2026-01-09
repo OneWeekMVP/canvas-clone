@@ -16,14 +16,24 @@
 2. Sign up for an account
 3. Complete verification
 
-**See:** Fig.33, Fig.34
+**See:** Fig.6.0, Fig.6.1.
+
+![Fig.6.0](../images/fig6_0.png)  
+<p align="center"><em>Fig.6.0: Stripe Dashboard</em></p>
+
+![Fig.6.1](../images/fig6_1.png)  
+<p align="center"><em>Fig.6.1: Create a new account</em></p>
 
 ### Step 2: Get Secret Key
 
 1. Go to **"Developers"** → **"API keys"**
 2. Copy your **"Secret key"** (starts with `sk_test_`)
 
-**See:** Fig.35
+**See:** Fig.6.2.
+
+![Fig.6.2](../images/fig6_2.png)  
+<p align="center"><em>Fig.6.2: Secrete key</em></p>
+
 
 ### Step 3: Add to Environment File
 
@@ -33,7 +43,11 @@ Open `.env` and add:
 STRIPE_SECRET_KEY=sk_test_your_secret_key_here
 ```
 
-**See:** Fig.35.1
+**See:** Fig.6.3.
+
+![Fig.6.3](../images/fig6_3.png)  
+<p align="center"><em>Fig.6.3: Fill the Stripe Secret Key in .env file</em></p>
+
 
 ---
 
@@ -51,14 +65,24 @@ STRIPE_SECRET_KEY=sk_test_your_secret_key_here
      - **Billing period:** Recurring - Monthly
 4. Click **"Save product"**
 
-**See:** Fig.36, Fig.37
+**See:** Fig.6.4, Fig.6.5.
+
+![Fig.6.4](../images/fig6_4.png)  
+<p align="center"><em>Fig.6.4: Adding product</em></p>
+
+![Fig.6.5](../images/fig6_5.png)  
+<p align="center"><em>Fig.6.5: Product</em></p>
+
 
 ### Step 5: Copy Price ID
 
 1. After saving, you'll see the product page
 2. Copy the **Price ID** (starts with `price_`)
 
-**See:** Fig.38
+**See:** Fig.6.6.
+
+![Fig.6.6](../images/fig6_6.png)  
+<p align="center"><em>Fig.6.6: Copy price ID</em></p>
 
 ### Step 6: Add to Environment File
 
@@ -79,7 +103,13 @@ Download for your operating system:
 
 Install in your project root folder.
 
-**See:** Fig.40, Fig.41
+**See:** Fig.6.7, Fig.6.8.
+
+![Fig.6.7](../images/fig6_7.png)  
+<p align="center"><em>Fig.6.7: Test with a local listener</em></p>
+
+![Fig.6.8](../images/fig6_8.png)  
+<p align="center"><em>Fig.6.8: Local listener setup</em></p>
 
 ### Step 8: Login to Stripe CLI
 
@@ -91,7 +121,13 @@ stripe login
 
 This will open your browser - click **"Allow access"**
 
-**See:** Fig.42, Fig.43
+**See:** Fig.6.9, Fig.6.10.
+
+![Fig.6.9](../images/fig6_9.png)  
+<p align="center"><em>Fig.6.9: Stripe CLI</em></p>
+
+![Fig.6.10](../images/fig6_10.png)  
+<p align="center"><em>Fig.6.10: Go with the flow</em></p>
 
 ### Step 9: Start Webhook Listener
 
@@ -110,7 +146,10 @@ You'll see output like:
 
 Copy the webhook secret (the part after `whsec_`).
 
-**See:** Fig.44
+**See:** Fig.6.11.
+
+![Fig.6.11](../images/fig6_11.png)  
+<p align="center"><em>Fig.6.11: Allow access</em></p>
 
 ### Step 10: Add Webhook Secret to .env
 
@@ -144,7 +183,13 @@ bun dev
    - **ZIP:** Any 5 digits (e.g., 12345)
 5. Complete payment
 
-**See:** Fig.45, Fig.46
+**See:** Fig.6.12, Fig.6.13.
+
+![Fig.6.12](../images/fig6_12.png)  
+<p align="center"><em>Fig.6.12: Stripe listen on localhost:3000</em></p>
+
+![Fig.6.13](../images/fig6_13.png)  
+<p align="center"><em>Fig.6.13: Dummy info && Subscribe</em></p>
 
 ### Step 13: Verify Subscription
 
@@ -166,7 +211,10 @@ Now that you have Pro access:
 4. Click **"Generate"**
 5. Wait for the AI to generate your image
 
-**See:** Fig.47
+**See:** Fig.6.14.
+
+![Fig.6.14](../images/fig6_14.png)  
+<p align="center"><em>Fig.6.14: Successful</em></p>
 
 ### Step 15: Test Background Removal
 
@@ -175,7 +223,14 @@ Now that you have Pro access:
 3. Wait for processing
 4. Your image background should be removed!
 
-**See:** Fig.48, Fig.49
+**See:** Fig.6.15, Fig.6.17.
+
+![Fig.6.15](../images/fig6_15.png)  
+<p align="center"><em>Fig.6.15: Image Generation</em></p>
+
+![Fig.6.16](../images/fig6_16.png)  
+<p align="center"><em>Fig.6.16: Go ahead and play</em></p>
+
 
 ---
 

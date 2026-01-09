@@ -13,14 +13,14 @@ cd canva-clone
 
 **See:** Fig.1, Fig.2, Fig.3
 
-![Fig.1](../images/fig1.png)  
-<p align="center"><em>Fig.1: Create a project folder.</em></p>
+![Fig.1.0](../images/fig1.0.png)  
+<p align="center"><em>Fig.1.0: Create a project folder.</em></p>
 
-![Fig.2](../images/fig2.png)  
-<p align="center"><em>Fig.2: Grab the HTTPS URL.</em></p>
+![Fig.2.0](../images/fig2.0.png)  
+<p align="center"><em>Fig.2.0: Grab the HTTPS URL.</em></p>
 
-![Fig.3](../images/fig3.png)  
-<p align="center"><em>Fig.3: Clone and change the directory.</em></p>
+![Fig.3.0](../images/fig3.0.png)  
+<p align="center"><em>Fig.3.0: Clone and change the directory.</em></p>
 
 ### Step 2: Copy Environment File
 
@@ -30,8 +30,8 @@ cp .env.example .env
 
 **See:** Fig.4
 
-![Fig.4](../images/fig4.png)  
-<p align="center"><em>Fig.4: Check for versions and copy .env.example</em></p>
+![Fig.4.0](../images/fig4.0.png)  
+<p align="center"><em>Fig.4.0: Check for versions and copy .env.example</em></p>
 
 ### Step 3: Check Your Package Manager
 
@@ -79,8 +79,8 @@ Perhaps an environment variable has not been set?
 
 **See:** Fig.
 
-![Fig.5](../images/fig5.png)  
-<p align="center"><em>Fig.5: Database URL, missing it in .env file</em></p>
+![Fig.5.0](../images/fig5.0.png)  
+<p align="center"><em>Fig.5.0: Database URL, missing it in .env file</em></p>
 
 ---
 

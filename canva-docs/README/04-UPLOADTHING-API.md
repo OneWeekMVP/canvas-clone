@@ -10,6 +10,9 @@
 
 **See:** Fig.25
 
+![Fig.4.0](../images/fig4_0.png)  
+<p align="center"><em>Fig.4.0: Projects Dashboard</em></p>
+
 ### Step 2: Create New App
 
 1. In your dashboard, click **"New App"**
@@ -17,7 +20,10 @@
 3. Select **"Free"** plan
 4. Click **"Create App"**
 
-**See:** Fig.26
+**See:** Fig.4.1.
+
+![Fig.4.1](../images/fig4_1.png)  
+<p align="center"><em>Fig.4.1: Name && Select Free</em></p>
 
 ### Step 3: Get API Keys
 
@@ -30,7 +36,11 @@ You need to copy **3 different keys**:
 2. **Legacy Token:**
    - `UPLOADTHING_TOKEN`
 
-**See:** Fig.27
+**See:** Fig.4.2.
+
+![Fig.4.2](../images/fig4_2.png)  
+<p align="center"><em>Fig.4.2: SDK v7+ && Legacy</em></p>
+
 
 ### Step 4: Add to Environment File
 
@@ -58,7 +68,10 @@ bun dev
 4. Select an image from your computer
 5. Upload should work!
 
-**See:** Fig.28
+**See:** Fig.4.3.
+
+![Fig.4.3](../images/fig4_3.png)  
+<p align="center"><em>Fig.4.3: Upload Image</em></p>
 
 ---
 

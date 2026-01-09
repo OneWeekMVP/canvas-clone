@@ -9,14 +9,26 @@
 
 **Troubleshooting:** If you get connection errors, try using Tor Browser: [torproject.org/download](https://www.torproject.org/download)
 
-**See:** Fig.16.1, Fig.17
+**See:** Fig.3.0, Fig.3.1, Fig.3.2.
+
+![Fig.3.0](../images/fig3_0.png)  
+<p align="center"><em>Fig.3.0: Before the integration with Unplash and Uploadthing APIs</em></p>
+
+![Fig.3.1](../images/fig3_1.png)  
+<p align="center"><em>Fig.3.1: Connection Error</em></p>
+
+![Fig.3.2](../images/fig3_2.png)  
+<p align="center"><em>Fig.3.2: Unsplash via Tor</em></p>
 
 ### Step 2: Access Developer API
 
 1. Click on **"Product"** in the menu
 2. Select **"Developers/API"**
 
-**See:** Fig.18
+**See:** Fig.3.3.
+
+![Fig.3.3](../images/fig3_3.png)  
+<p align="center"><em>Fig.3.3: Select Developers API</em></p>
 
 ### Step 3: Create Application
 
@@ -26,14 +38,30 @@
 4. Name your application (e.g., "Canva Clone")
 5. Submit
 
-**See:** Fig.19, Fig.20, Fig.21, Fig.22
+**See:** Fig.3.4, Fig.3.5, Fig.3.6, Fig.3.7.
+
+![Fig.3.4](../images/fig3_4.png)  
+<p align="center"><em>Fig.3.4: Select ‘Your apps’</em></p>
+
+![Fig.3.5](../images/fig3_5.png)  
+<p align="center"><em>Fig.3.5: Create an app</em></p>
+
+![Fig.3.6](../images/fig3_6.png)  
+<p align="center"><em>Fig.3.6: Accept terms</em></p>
+
+![Fig.3.7](../images/fig3_7.png)  
+<p align="center"><em>Fig.3.7: Name your app with a few words</em></p>
+
 
 ### Step 4: Get Access Key
 
 1. In your app dashboard, find **"Access Key"**
 2. Copy the key
 
-**See:** Fig.23
+**See:** Fig.3.8.
+
+![Fig.3.8](../images/fig3_8.png)  
+<p align="center"><em>Fig.3.8: Grab your Access Key</em></p>
 
 ### Step 5: Add to Environment File
 
@@ -58,7 +86,10 @@ bun dev
 3. Click **"Image"** in the left sidebar
 4. You should see Unsplash photos!
 
-**See:** Fig.24
+**See:** Fig.3.9.
+
+![Fig.3.9](../images/fig3_9.png)  
+<p align="center"><em>Fig.3.9: Unsplash is set</em></p>
 
 ---
 

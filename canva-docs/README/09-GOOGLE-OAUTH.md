@@ -18,7 +18,13 @@
 3. Name your project (e.g., "Canva Clone")
 4. Click **"Create"**
 
-**See:** Fig.59, Fig.60
+**See:** Fig.9.0, Fig.9.1
+
+![Fig.9.0](../images/fig9_0.png)  
+<p align="center"><em>Fig.9.0: Project Creation</em></p>
+
+![Fig.9.1](../images/fig9_1.png)  
+<p align="center"><em>Fig.9.1: Name your project && Select</em></p>
 
 ### Step 3: Select Your Project
 
@@ -33,7 +39,10 @@ Make sure your new project is selected in the dropdown.
 1. In the left sidebar, go to **"APIs & Services"**
 2. Click **"OAuth consent screen"**
 
-**See:** Fig.61
+**See:** Fig.9.2
+
+![Fig.9.2](../images/fig9_2.png)  
+<p align="center"><em>Fig.9.2: Head to APIs && Configure</em></p>
 
 ### Step 5: Configure Consent Screen
 
@@ -48,7 +57,10 @@ Make sure your new project is selected in the dropdown.
 6. Click **"Save and Continue"** on Scopes page (no changes needed)
 7. Click **"Save and Continue"** on Test users page
 
-**See:** Fig.62
+**See:** Fig.9.3
+
+![Fig.9.3](../images/fig9_3.png)  
+<p align="center"><em>Fig.9.3: Finish your Google Auth Configuration</em></p>
 
 ---
 
@@ -60,7 +72,10 @@ Make sure your new project is selected in the dropdown.
 2. Click **"Create Credentials"**
 3. Select **"OAuth client ID"**
 
-**See:** Fig.63
+**See:** Fig.9.4
+
+![Fig.9.4](../images/fig9_4.png)  
+<p align="center"><em>Fig.9.4: Create OAuth client ID</em></p>
 
 ### Step 7: Configure OAuth Client
 
@@ -77,7 +92,10 @@ A popup will show your credentials:
 - Copy **Client ID**
 - Copy **Client Secret**
 
-**See:** Fig.64
+**See:** Fig.9.5
+
+![Fig.9.5](../images/fig9_5.png)    
+<p align="center"><em>Fig.9.5: Client ID && Secret</em></p>
 
 ### Step 9: Add to Environment File
 
@@ -104,7 +122,10 @@ bun dev
 4. Authorize the application
 5. You should be logged in!
 
-**See:** Fig.64, Fig.65
+**See:** Fig.9.6
+
+![Fig.9.6](../images/fig9_6.png)  
+<p align="center"><em>Fig.9.6: There it is!</em></p>
 
 ---
 
@@ -119,7 +140,10 @@ bun dev
 - Each OAuth provider requires a unique email
 - This is by design to prevent account conflicts
 
-**See:** Fig.65
+**See:** Fig.9.7
+
+![Fig.9.7](../images/fig9_7.png)  
+<p align="center"><em>Fig.9.7: You can’t log in with the same account from different OAuths</em></p>
 
 ---
 

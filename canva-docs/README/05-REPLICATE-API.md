@@ -8,6 +8,9 @@
 
 **See:** Fig.29
 
+![Fig.5.0](../images/fig5_0.png)  
+<p align="center"><em>Fig.5.0: Before AI</em></p>
+
 ### Step 1: Create Replicate Account
 
 1. Go to [replicate.com](https://replicate.com)
@@ -20,7 +23,11 @@
 3. Add your credit/debit card
 4. Add at least **$2** to your account
 
-**See:** Fig.30
+**See:** Fig.5.1.
+
+![Fig.5.1](../images/fig5_1.png)  
+<p align="center"><em>Fig.5.1: Replicate Billing Page</em></p>
+
 
 ### Step 3: Get API Token
 
@@ -29,7 +36,10 @@
 3. Name your token (e.g., "Canva Clone")
 4. Copy the token
 
-**See:** Fig.31
+**See:** Fig.5.2.
+
+![Fig.5.2](../images/fig5_2.png)  
+<p align="center"><em>Fig.5.2: Replicate token</em></p>
 
 ### Step 4: Add to Environment File
 
@@ -51,7 +61,11 @@ bun dev
 
 **Note:** AI features require a Pro subscription. You'll be able to test this after completing the Stripe setup in the next guide.
 
-**See:** Fig.32, Fig.47, Fig.48, Fig.49
+**See:** Fig.5.3.
+
+![Fig.5.3](../images/fig5_3.png)  
+<p align="center"><em>Fig.5.3: Paidwall && Next is Stripe</em></p>
+
 
 ---
 

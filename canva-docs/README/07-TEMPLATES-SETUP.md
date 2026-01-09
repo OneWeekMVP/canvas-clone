@@ -12,7 +12,13 @@
 
 **Why?** We need the UploadThing URLs to use as thumbnails in the database.
 
-**See:** Fig.49, Fig.50
+**See:** Fig.7.0, Fig.6.17
+
+![Fig.7.0](../images/fig7_0.png)  
+<p align="center"><em>Fig.7.0: Upload the PNG images from the public</em></p>
+
+![Fig.7.1](../images/fig7_1.png)  
+<p align="center"><em>Fig.7.1: Upload an image && go to your local drizzle studio</em></p>
 
 ---
 
@@ -33,7 +39,10 @@ This opens the database GUI at `https://local.drizzle.studio`
 1. In Drizzle Studio, click on **"templates"** table
 2. Click **"Add record"** or manually edit existing records
 
-**See:** Fig.51
+**See:** Fig.7.2
+
+![Fig.7.2](../images/fig7_2.png)  
+<p align="center"><em>Fig.7.2: Make the changes && Save</em></p>
 
 ### Step 4: Add Template Data
 
@@ -56,7 +65,10 @@ For each template, fill in these fields:
 3. Copy the full URL (looks like: `https://xxxxxxx.ufs.sh/f/...`)
 4. Paste into `thumbnailUrl` field in Drizzle Studio
 
-**See:** Fig.54
+**See:** Fig.7.3
+
+![Fig.7.3](../images/fig7_3.png)  
+<p align="center"><em>Fig.7.3: Error? No Problem!</em></p>
 
 ### Step 6: Save Changes
 
@@ -104,7 +116,10 @@ export default nextConfig;
 
 **Why?** UploadThing uses dynamic subdomains that can change.
 
-**See:** Fig.51.1
+**See:** Fig.7.4
+
+![Fig.7.4](../images/fig7_4.png)  
+<p align="center"><em>Fig.7.4: Just name the hostname to ‘*ufs.sh’</em></p>
 
 ### Step 8: Restart Dev Server
 
@@ -120,7 +135,16 @@ bun dev
 2. You should see templates in the **"Start from a template"** section
 3. Click on a template to test it
 
-**See:** Fig.52, Fig.53
+**See:** Fig.7.5, Fig.7.6, Fig.7.7
+
+![Fig.7.5](../images/fig7_5.png)  
+<p align="center"><em>Fig.7.5: The template is there</em></p>
+
+![Fig.7.6](../images/fig7_6.png)  
+<p align="center"><em>Fig.7.6: Repeat the process & Templates are set!</em></p>
+
+![Fig.7.7](../images/fig7_7.png)  
+<p align="center"><em>Fig.7.7: Copy pass the URL by pressing on the image in Uploadthing page</em></p>
 
 ---
 
