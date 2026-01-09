@@ -34,7 +34,7 @@ git commit -m "Initial commit - Canva Clone"
 6. **Don't** initialize with README
 7. Click **"Create repository"**
 
-**See:** Fig.10.0
+**See:** Fig.10.0.
 
 ![Fig.10.0](../images/fig10_0.png)  
 <p align="center"><em>Fig.10.0: Create a repository</em></p>
@@ -49,7 +49,7 @@ git push -u origin main
 
 **Replace** `your-username` with your actual GitHub username.
 
-**See:** Fig.10.1
+**See:** Fig.10.1.
 
 ![Fig.10.1](../images/fig10_1.png)  
 <p align="center"><em>Fig.10.1: Git push</em></p>
@@ -71,7 +71,7 @@ Refresh your GitHub repository page - you should see all your files!
 2. Find your `canva-clone` repository
 3. Click **"Import"**
 
-**See:** Fig.10.2
+**See:** Fig.10.2.
 
 ![Fig.10.2](../images/fig10_2.png)  
 <p align="center"><em>Fig.10.2: Import your repository from Gihub</em></p>
@@ -84,7 +84,7 @@ Refresh your GitHub repository page - you should see all your files!
 4. **Output Directory:** Leave as default
 5. Click **"Deploy"**
 
-**See:** Fig.10.3
+**See:** Fig.10.3.
 
 ![Fig.10.3](../images/fig10_3.png)  
 <p align="center"><em>Fig.10.3: Happy Deploying!</em></p>
@@ -97,7 +97,7 @@ After deployment:
 1. Copy your Vercel domain (e.g., `your-app.vercel.app`)
 2. Keep this for the next steps
 
-**See:** Fig.10.4
+**See:** Fig.10.4.
 
 ![Fig.10.4](../images/fig10_4.png)  
 <p align="center"><em>Fig.10.4: Copy your Domain name (URL) && got to Settings Environment Variables</em></p>
@@ -132,7 +132,7 @@ GOOGLE_CLIENT_SECRET=
 
 **Important:** Update `NEXT_PUBLIC_APP_URL` to your Vercel domain!
 
-**See:** Fig.10.5
+**See:** Fig.10.5.
 
 ![Fig.10.5](../images/fig10_5.png)  
 <p align="center"><em>Fig.10.5: Save</em></p>
@@ -153,7 +153,7 @@ GOOGLE_CLIENT_SECRET=
 2. Go to **"Developers"** → **"Webhooks"**
 3. Click **"Add endpoint"**
 
-**See:** Fig.10.6
+**See:** Fig.10.6.
 
 ![Fig.10.6](../images/fig10_6.png)  
 <p align="center"><em>Fig.10.6: Stripe Events</em></p>
@@ -170,7 +170,7 @@ GOOGLE_CLIENT_SECRET=
    - `customer.subscription.deleted`
 5. Click **"Add endpoint"**
 
-**See:** Fig.10.7
+**See:** Fig.10.7.
 
 ![Fig.10.7](../images/fig10_7.png)  
 <p align="center"><em>Fig.10.7: Webhook Destination</em></p>
@@ -180,7 +180,7 @@ GOOGLE_CLIENT_SECRET=
 1. Click on your newly created webhook
 2. Copy the **Signing secret** (starts with `whsec_`)
 
-**See:** Fig.10.8
+**See:** Fig.10.8.
 
 ![Fig.10.8](../images/fig10_8.png)  
 <p align="center"><em>Fig.10.8: Save</em></p>
@@ -205,7 +205,7 @@ GOOGLE_CLIENT_SECRET=
    - **Authorization callback URL:** `https://your-app.vercel.app/api/auth/callback/github`
 4. Click **"Update application"**
 
-**See:** Fig.10.9
+**See:** Fig.10.9.
 
 ![Fig.10.9](../images/fig10_9.png)  
 <p align="center"><em>Fig.10.9: Change the localhost to your domain name</em></p>
@@ -231,7 +231,7 @@ GOOGLE_CLIENT_SECRET=
 3. Click **"Redeploy"** on the latest deployment
 4. Wait for deployment to complete
 
-**See:** Fig.10.10
+**See:** Fig.10.10.
 
 ![Fig.10.10](../images/fig10_10.png)  
 <p align="center"><em>Fig.10.10: Redeploy</em></p>
@@ -249,7 +249,7 @@ GOOGLE_CLIENT_SECRET=
    - ✅ Generate AI images
    - ✅ Remove backgrounds
 
-**See:** Fig.10.11
+**See:** Fig.10.11.
 
 ![Fig.10.11](../images/fig10_11.png)  
 <p align="center"><em>Fig.10.11: Canva Clone</em></p>

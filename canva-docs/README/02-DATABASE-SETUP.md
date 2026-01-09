@@ -8,7 +8,7 @@
 2. Sign up for a free account
 3. Complete organization setup
 
-**See:** Fig.6
+**See:** Fig.2.0.
 
 ![Fig.2.0](../images/fig2_0.png)  
 <p align="center"><em>Fig.2.0: Neon database</em></p>
@@ -19,7 +19,7 @@
 2. Name your project (e.g., "canva-clone")
 3. Click **"Create"**
 
-**See:** Fig.7
+**See:** Fig.2.1.
 
 ![Fig.2.1](../images/fig2_1.png)  
 <p align="center"><em>Fig.2.1: Database creatoin</em></p>
@@ -125,7 +125,7 @@ Add to `.env`:
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 ```
 
-**See:** Fig.2.8
+**See:** Fig.2.8.
 
 ![Fig.2.8](../images/fig2_8.png)  
 <p align="center"><em>Fig.2.8: Now it is working on localhost:3000</em></p>
@@ -138,7 +138,7 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 3. Create an account with email/password
 4. You'll be redirected to the dashboard
 
-**See:** Fig.2.9
+**See:** Fig.2.9.
 
 ![Fig.2.9](../images/fig2_9.png)  
 <p align="center"><em>Fig.2.9: Dashboard Page</em></p>

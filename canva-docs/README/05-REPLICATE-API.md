@@ -6,7 +6,7 @@
 
 **Replicate requires billing credentials.** You need at least **$2** in your account to use AI image generation features.
 
-**See:** Fig.29
+**See:** Fig.5.0.
 
 ![Fig.5.0](../images/fig5_0.png)  
 <p align="center"><em>Fig.5.0: Before AI</em></p>

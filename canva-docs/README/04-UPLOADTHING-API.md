@@ -8,7 +8,7 @@
 2. Click **"Get Started for Free"**
 3. Sign up or log in
 
-**See:** Fig.25
+**See:** Fig.4.0.
 
 ![Fig.4.0](../images/fig4_0.png)  
 <p align="center"><em>Fig.4.0: Projects Dashboard</em></p>

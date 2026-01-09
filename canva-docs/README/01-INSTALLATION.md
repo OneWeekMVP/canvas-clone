@@ -11,16 +11,16 @@ git clone https://github.com/OneWeekMVP/canva-clone.git
 cd canva-clone
 ```
 
-**See:** Fig.1, Fig.2, Fig.3
+**See:** Fig.1.0, Fig.1.1, Fig.1.2.
 
 ![Fig.1.0](../images/fig1_0.png)  
 <p align="center"><em>Fig.1.0: Create a project folder.</em></p>
 
-![Fig.2.0](../images/fig2_0.png)  
-<p align="center"><em>Fig.2.0: Grab the HTTPS URL.</em></p>
+![Fig.1.1](../images/fig1_1.png)  
+<p align="center"><em>Fig.1.1: Grab the HTTPS URL.</em></p>
 
-![Fig.3.0](../images/fig3_0.png)  
-<p align="center"><em>Fig.3.0: Clone and change the directory.</em></p>
+![Fig.1.2](../images/fig1_2.png)  
+<p align="center"><em>Fig.1.2: Clone and change the directory.</em></p>
 
 ### Step 2: Copy Environment File
 
@@ -28,10 +28,10 @@ cd canva-clone
 cp .env.example .env
 ```
 
-**See:** Fig.4
+**See:** Fig.1.3.
 
-![Fig.4.0](../images/fig4_0.png)  
-<p align="center"><em>Fig.4.0: Check for versions and copy .env.example</em></p>
+![Fig.1.3](../images/fig1_3.png)  
+<p align="center"><em>Fig.1.3: Check for versions and copy .env.example</em></p>
 
 ### Step 3: Check Your Package Manager
 
@@ -77,10 +77,10 @@ Perhaps an environment variable has not been set?
 
 **This is normal!** We'll fix it in the next step by setting up the database.
 
-**See:** Fig.
+**See:** Fig.1.4.
 
-![Fig.5.0](../images/fig5_0.png)  
-<p align="center"><em>Fig.5.0: Database URL, missing it in .env file</em></p>
+![Fig.1.4](../images/fig1_4.png)  
+<p align="center"><em>Fig.1.4: Database URL, missing it in .env file</em></p>
 
 ---
 

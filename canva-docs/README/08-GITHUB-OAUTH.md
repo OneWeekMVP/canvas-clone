@@ -7,7 +7,7 @@
 1. Go to [github.com/settings/developers](https://github.com/settings/developers)
 2. Make sure you're logged in to GitHub
 
-**See:** Fig.8.0
+**See:** Fig.8.0.
 
 ![Fig.8.0](../images/fig8_0.png)  
 <p align="center"><em>Fig.8.0: Go to your Github && create a new OAuth App</em></p>
@@ -30,7 +30,7 @@ Enter these details exactly:
 
 **Important:** The callback URL must be exact!
 
-**See:** Fig.8.1
+**See:** Fig.8.1.
 
 ![Fig.8.1](../images/fig8_1.png)  
 <p align="center"><em>Fig.8.1: Pass the URL as shown</em></p>
@@ -45,7 +45,7 @@ Click **"Register application"**
 2. Click **"Generate a new client secret"**
 3. Copy the **Client Secret** (you won't see it again!)
 
-**See:** Fig.8.2
+**See:** Fig.8.2.
 
 ![Fig.8.2](../images/fig8_2.png)  
 <p align="center"><em>Fig.8.2: Github is set for localhost:3000</em></p>
@@ -74,7 +74,7 @@ bun dev
 3. Authorize the application
 4. You should be logged in!
 
-**See:** Fig.8.3
+**See:** Fig.8.3.
 
 ![Fig.8.3](../images/fig8_3.png)  
 <p align="center"><em>Fig.8.3: Github works!</em></p>
